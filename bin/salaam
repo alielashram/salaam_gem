@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'salaam'
+puts Salaam.hi(ARGV[0])
