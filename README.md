@@ -8,7 +8,6 @@ Practice making my first gem.
 
 ## Information
 
-class Salaam
     Greet the world with Peace!
 
     Example:
@@ -18,9 +17,8 @@ class Salaam
      Arguments:
        language: (String)
 
-  def self.hi(language = "english")
-    translator = Translator.new(language)
-    puts translator.hi
-  end
-end
+## Installation
 
+gem install salaam
+
+Gemfile: gem "salaam", "~> 0.0.3"
