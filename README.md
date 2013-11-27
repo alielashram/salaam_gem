@@ -22,3 +22,7 @@ Practice making my first gem.
 gem install salaam
 
 Gemfile: gem "salaam", "~> 0.0.3"
+
+## License
+
+MIT: http://aliel.mit-license.org/
